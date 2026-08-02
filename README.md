@@ -1,9 +1,16 @@
-HEY🤚WHAT's UP
+<h1>HEY🤚WHAT's UP</h1>
 
-📚INFORMATION TECHNOLOGY STUDENT</br>
-⭐CYBERSECURITY STUDENT</br>
-📍CORE INTREST IN BLUE TEAMING</br>
-📌LEARNING, SECURING🔐</br>
+<h2 data-importer="text" align="left">ABOUT ME</h2>
+
+###
+
+<img data-importer="image" align="left" height="200" src="https://i.pinimg.com/736x/39/c1/5b/39c15b59cdf82e43ee2035425226a284.jpg"  />
+
+###
+
+<p data-importer="text" align="left">📚INFORMATION TECHNOLOGY STUDENT<br>⭐CYBERSECURITY STUDENT<br>📍CORE INTREST IN BLUE TEAMING<br>📌LEARNING, SECURING🔐</p>
+
+###
 
 
 ## 🌐 Socials:
