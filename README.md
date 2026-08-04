@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aashka%20Sawant&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=CYBERSECURITY%20STUDENT" />
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=EXPLORING+SECURITY+TOOLS;KALI+LINUX" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=EXPLORING+SECURITY+TOOLS;KALI+LINUX;UNDERSTANDING+NEW+THINGS" alt="Typing SVG" /></a>
 </a>
 
 <br/>
@@ -46,5 +46,20 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aashka-sawant&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahilmore469/Sahilmore469/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahilmore469/Sahilmore469/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sahilmore469/Sahilmore469/output/github-snake.svg" width="95%"/>
+</picture>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
