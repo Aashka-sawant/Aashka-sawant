@@ -1,11 +1,10 @@
 <div align="center">
 
 <!-- Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aashka%20Sawant&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=CYBERSECURITY%20Student" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aashka%20Sawant&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=CYBERSECURITY%20STUDENT" />
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=EXPLORING+SECURITY+TOOLS+%F0%9F%8C%90;INTREST +IN+BLUE TRAMING+%F0%9F%9B%B0;SECURING+%F0%9F%93%8A" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=EXPLORING+SECURITY+TOOLS;KALI+LINUX" alt="Typing SVG" /></a>
 </a>
 
 <br/>
@@ -21,16 +20,7 @@
 
 <table>
 <tr>
-<td width="55%">
-
-## `> whoami`
-
-```yaml
-Name     : Aashka Sawant
-Role     : CYBERSECURITY STUDENT
-Location : India 🇮🇳
-Status   : LEARNING AND EXPLORING THINGS
-Focus    : LEARNING | SECURITY | 
+<td width="50%">
 
 <h2 data-importer="text" align="left">ABOUT ME</h2>
 
