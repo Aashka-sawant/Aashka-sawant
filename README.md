@@ -1,4 +1,36 @@
-<h1>HEY🤚WHAT's UP</h1>
+<div align="center">
+
+<!-- Capsule Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aashka%20Sawant&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student" />
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%8C%90;Android+App+Developer+%F0%9F%9B%B0;Data+Explorer+%F0%9F%93%8A" />
+</a>
+
+<br/>
+
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=Aashka-sawant&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Aashka-sawant?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="55%">
+
+## `> whoami`
+
+```yaml
+Name     : Aashka Sawant
+Role     : CYBERSECURITY STUDENT
+Location : India 🇮🇳
+Status   : LEARNING AND EXPLORING THINGS
+Focus    : LEARNING | SECURITY | 
 
 <h2 data-importer="text" align="left">ABOUT ME</h2>
 
